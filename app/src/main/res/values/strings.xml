@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kastor</string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+    <string name="authorities">com.kas.app.MetricsContentProvider</string>
+    <string name="showdb">showDb</string>
+
+</resources>
